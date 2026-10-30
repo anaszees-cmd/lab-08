@@ -1,7 +1,5 @@
 package com.example.lab_8
-/*
-Wizard man
- */
+
 class Wizard(val name: String, var mana: Int, var spellPower: Int) {
     fun castSpell(spell: String): Int {
         when (spell) {
@@ -23,15 +21,7 @@ class Wizard(val name: String, var mana: Int, var spellPower: Int) {
         }
     }
     fun restoreMana(amount: Int) {
-        mana = minOf(100, mana + amount)
-    }
-
-    fun train(){
-        if (mana >= 5) {
-            mana -= 5
-            spellPower += 1
-        }
-
 
     }
+
 }
