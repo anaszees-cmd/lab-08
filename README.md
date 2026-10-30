@@ -3,7 +3,7 @@
 ## Student Details
 - **Full Name:** `Anas Zeeshan Yousuf`
 - **CCID:** `anaszees`
-forget this, i think i messed up something
+forget this fork, i think i messed up something
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
 
